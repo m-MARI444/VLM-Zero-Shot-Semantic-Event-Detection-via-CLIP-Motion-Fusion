@@ -1,0 +1,17 @@
+models/
+input/crowded scene.mp4
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+
+# Large Files
+models/
+input/
+results/
+*.mp4
+*.pth

@@ -1,0 +1,13 @@
+torch
+torchvision
+transformers
+opencv-python-headless
+pillow
+numpy
+scikit-learn
+tqdm
+click
+ffmpeg-python
+requests
+ftfy
+regex
