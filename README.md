@@ -73,5 +73,3 @@ Due to file size limits, the trained models (`.pth` files) and large test videos
 Please contact the author for access to:
 *   `models/clip_fp32.pth`
 *   `models/clip_int8.pth`
-*   `input/` (Test videos)
-*   `results/` (Output visualizations)
